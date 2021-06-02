@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d68ea9df9e43321fec6a7c6f236525ba88304cf2.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_eceab91f9ed5400379c44c611fe92b2fbacee5bd.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/libs/additionnal.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/additionnal_d65a638c77783fe61dc000dc871d55c9e867d104.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_15fd4f4cac2681ef3b2cfbe91f09117152457120.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_c190c7bb02e98a0d982f66f5326fb91b4f8096eb.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/libs/activation.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/activation_f8cca3c9ca33b0538190593f386bd17b7bbd44d8.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_f3443a06aebde584244b68d60c2aa6da54ffdf83.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_504be2e3ba01e8e7a25b7d584793737a05e3cc88.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_2c61c2a228b71fc73fba3191c672a30c23ee26e7.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_51b68552eeca8bffcae162f3ebf193051765dd16.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fb9bc3b09a352bf8a19ee8c1ebfbea8caf072753.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.2.1/8de3aafecbdf98a61db6427f008f2d515bcd2544/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_23fb7a67fba0cc3bde346cc2d1498cc1cdc820ae.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/libs/mail.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/mail_42c2d132c709947d7e653b2bb6e7480bf2163d31.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_d602d89ec98e8dec3f356941381784ec3a4007c6.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_9b5c2efa19a210cbb6ca70e1c5312fb1fae51926.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4518098921df5db1384a3519e2fe0d8ff83c6bd9.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_11a37b0d3992cf84da7d1704b5834f5a2586f80a.jar" />
+    </item>
+    <item
+        jar="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/mihir/Blind-Voice-Mail/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_884aa58f94112f2c50977e1d1cef0d124ebf9233.jar" />
+    </item>
+
+</items>

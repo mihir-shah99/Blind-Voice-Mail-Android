@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blind-Voice-Mail.iml" filepath="$PROJECT_DIR$/.idea/modules/Blind-Voice-Mail.iml" group="Blind-Voice-Mail" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Blind-Voice-Mail/app" />
+    </modules>
+  </component>
+</project>
