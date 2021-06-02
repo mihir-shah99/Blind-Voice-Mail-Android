@@ -1,13 +1,3 @@
-![University logo](https://github.com/mittalshalabh16/Blind-Voice-Mail/blob/master/images/uni_logo.png)
-# GLA University Mathura, 2019
-## Mini Project Synopsis
-## BLIND VOICE MAIL
-## Team Members
-1. [Shalabh Kumar(161500498)](https://github.com/mittalshalabh16)
-2. [Alisha Raj(161500057)](https://github.com/alisharaj1)
-
-___
-
 ### Problem Statement
 
 
